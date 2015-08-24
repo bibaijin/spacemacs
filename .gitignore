@@ -44,3 +44,8 @@ private/*
 !private/README.md
 !private/snippets/README.md
 /games/
+
+# my
+.session
+ido.last
+org-clock-save.el
